@@ -39,7 +39,7 @@ localhost:3000으로 서버가 생성이 된다.
 4. Application 실행
 브라우저에 localhost:3000을 적고 접속을 한다.
 
-![](https://storage.googleapis.com/beyondat_posting/2018_Hackathon/Joinus_Demo_Quick.mp4)
+[이것](https://storage.googleapis.com/beyondat_posting/2018_Hackathon/Joinus_Demo_Quick.mp4)과 같은 동작을 기대한다.
 
 
 5. django server
